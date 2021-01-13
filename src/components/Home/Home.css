@@ -1,0 +1,10 @@
+#home-page {
+    border: 1px solid black;
+    width: 1150px;
+    margin-left: 385px;
+    padding-bottom: 100px;
+}
+
+h1 {
+    text-align: center;
+}
