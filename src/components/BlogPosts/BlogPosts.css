@@ -1,5 +1,5 @@
 #blog-posts-page {
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #welcome {
@@ -19,6 +19,7 @@
     text-align: center;
     margin-left: 100px;
     margin-bottom: -20px;
+    border: 1px solid green;
 }
 
 .blog-img {
